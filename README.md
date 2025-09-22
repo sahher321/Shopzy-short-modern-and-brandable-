@@ -2,7 +2,7 @@
 
 # App Screenshots
 <p align="left">
-  <img src="https://github.com/zxcodes/Shopzy/assets/44538497/7e4fc143-b15c-4fc9-b29a-1148676045ed" width="200" alt="Home">
+ 
   <img src="https://github.com/zxcodes/Shopzy/assets/44538497/ecebae45-2d3e-4e21-bf77-341fb4bcb87a" width="200" alt="Product Details">
   <img src="https://github.com/zxcodes/Shopzy/assets/44538497/11204ca5-d990-4bd1-a5ec-38728239d797" width="200" alt="Fav">
   <img src="https://github.com/zxcodes/Shopzy/assets/44538497/93481a99-0bbc-4a26-a399-c2cd94bafea5" width="200" alt="Cart">
@@ -17,20 +17,16 @@
 - Clone the repo HTTPS:
 
 ```
-git clone https://github.com/zxcodes/Shopzy.git
+git clone https://github.com/sahher321/Shopzy-short-modern-and-brandable-.git
 
 ```
 
-- Clone Over SSH:
 
-```
-git clone git@github.com:zxcodes/Shopzy.git
-```
 
 ## Install dependencies
 
 ```
-cd Shopzy && yarn install
+cd Shopzy-short-modern-and-brandable && yarn install
 ```
 
 ## To install any expo dependency use yarn package manager:
