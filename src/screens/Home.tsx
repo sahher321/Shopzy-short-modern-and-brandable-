@@ -113,7 +113,6 @@ export default ({navigation}: HomeScreenProps): JSX.Element => {
         list={productList?.slice(0, 5)}
         onPress={navigateToProductDetails}
       />
-
       <Spacer space={27} />
       {productList?.length ? (
         <PaddingContainer style={{paddingVertical: 0}}>

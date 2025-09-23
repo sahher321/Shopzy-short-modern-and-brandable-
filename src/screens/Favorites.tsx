@@ -8,7 +8,7 @@ import {
 } from '@app/utils/functions';
 import {BottomTabScreenProps} from '@react-navigation/bottom-tabs';
 import React from 'react';
-import {StyleSheet} from 'react-native';  
+import {StyleSheet} from 'react-native';
 
 type FavoritesScreenProps = BottomTabScreenProps<
   AppScreensParamsList,
