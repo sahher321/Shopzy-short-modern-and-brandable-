@@ -46,6 +46,4 @@ const styles = StyleSheet.create({
   },
 });
 
-// <QuickActionButton onPress noBackground>
-//   <Icon height={18} width={18} />
-// </QuickActionButton>
+

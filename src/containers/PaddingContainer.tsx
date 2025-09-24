@@ -25,7 +25,3 @@ const styles = StyleSheet.create({
   },
 });
 
-// <PaddingContainer style>
-//     <View />
-//     <View />
-// </PaddingContainer>

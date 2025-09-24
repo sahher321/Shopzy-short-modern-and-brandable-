@@ -18,4 +18,3 @@ export default function Spacer({space, between}: SpacerProps) {
   ) : null;
 }
 
-// <Spacer space={10} between />

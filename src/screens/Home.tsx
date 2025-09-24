@@ -53,7 +53,6 @@ export default ({navigation}: HomeScreenProps): JSX.Element => {
     navigation.navigate('ProductDetails', {product});
   };
 
-  // This could have been a reusable function, but giving a function more than 2 params isn't a good practice, so repeating it makes sense.
   const handleOnAddToCart = (
     product: ProductType,
     isProductInCart: boolean

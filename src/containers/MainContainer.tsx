@@ -33,6 +33,3 @@ export default ({
   );
 };
 
-// <MainContainer fillHeight backgroundColor="#000">
-// {children}
-// </MainContainer>
